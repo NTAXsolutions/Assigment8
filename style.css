@@ -1,0 +1,157 @@
+H1 {
+    text-align: center;
+    
+    color: rgb(54, 206, 49);
+    
+    
+    
+}
+.box-1{
+    width: 320px;
+    height: 25px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin: 0 auto;
+    animation-name: Box-1;
+    animation-duration: 6s;
+    animation-iteration-count:infinite;
+  }
+  
+  @keyframes Box-1 {
+    0%   {background-color: red;}
+    25%  {background-color: yellow;}
+    50%  {background-color: blue;}
+    100% {background-color: green;}
+  }
+    
+
+.box-2 {
+    width: 320px;
+    height: 25px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin: 0 auto;
+    animation-name: Box-2;
+    animation-duration: 4s;
+    animation-iteration-count:infinite;
+  }
+  
+  @keyframes Box-2 {
+    0%   {background-color: rgb(33, 201, 173);}
+    25%  {background-color: rgb(189, 139, 31);}
+    50%  {background-color: rgb(95, 10, 74);}
+    100% {background-color: rgb(56, 86, 88);}
+  }
+
+.box-3 {
+    width: 320px;
+    height: 25px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin: 0 auto;
+    animation-name: Box-3;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes Box-3 {
+    0%   {background-color: rgb(119, 108, 108);}
+    25%  {background-color: rgb(19, 19, 8);}
+    50%  {background-color: rgb(19, 139, 93);}
+    100% {background-color: rgb(88, 24, 67);}
+  }
+
+.box-4 {
+    width: 320px;
+    height: 25px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin: 0 auto; animation-name: Box-4;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+  }
+  
+  @keyframes Box-4 {
+    0%   {background-color: rgb(13, 70, 155);}
+    25%  {background-color: rgb(194, 177, 28);}
+    50%  {background-color: rgb(199, 46, 105);}
+    100% {background-color: rgb(194, 70, 13);}
+  }
+}
+.box-5 {
+    width: 320px;
+    height: 25px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin: 0 auto; animation-name: Box-5;
+    animation-duration: 4s;
+    animation-iteration-count:infinite;
+  }
+  
+  @keyframes Box-5 {
+    0%   {background-color: rgb(103, 9, 165);}
+    25%  {background-color: rgb(44, 39, 59);}
+    50%  {background-color: rgb(0, 238, 255);}
+    100% {background-color: rgb(128, 0, 122);}
+  }
+
+.box-6 {
+    width: 320px;
+    height: 25px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin: 0 auto;
+    animation-name: Box-6;
+    animation-duration: 2s;
+    animation-iteration-count:infinite;
+  }
+  
+  @keyframes Box-6 {
+    0%   {background-color: rgb(28, 179, 36);}
+    25%  {background-color: rgb(134, 75, 230);}
+    50%  {background-color: rgb(125, 168, 24);}
+    100% {background-color: rgb(50, 22, 206);}
+  }
+
+.box-7 {
+    width: 320px;
+    height: 25px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin: 0 auto;
+    gap: 20px; animation-name: Box-7;
+    animation-duration: 4s;
+    animation-iteration-count:infinite;
+  }
+  
+  @keyframes Box-7 {
+    0%   {background-color: rgb(139, 13, 108);}
+    25%  {background-color: rgb(133, 133, 34);}
+    50%  {background-color: rgb(14, 175, 167);}
+    100% {background-color: rgb(57, 25, 173);}
+  }
+
+.box-8 {
+    width: 320px;
+    height: 25px;
+    border: 2px solid black;
+    border-radius: 20px;    
+    margin: 0 auto;
+    animation-name: Box-8;
+    animation-duration: 6s;
+    animation-iteration-count:infinite;
+  }
+  
+  @keyframes Box-8 {
+    0%   {background-color: rgb(77, 28, 28);}
+    25%  {background-color: rgb(129, 29, 129);}
+    50%  {background-color: rgb(11, 80, 20);}
+    100% {background-color: rgb(109, 134, 40);}
+  }
